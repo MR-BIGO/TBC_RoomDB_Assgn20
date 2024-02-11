@@ -10,4 +10,6 @@
     <string name="add_user">Add User</string>
     <string name="remove_user">Remove User</string>
     <string name="update_user">Update User</string>
+    <string name="empty_field">Please, fill out all of the fields!</string>
+    <string name="empty_email">Please, enter an email address</string>
 </resources>

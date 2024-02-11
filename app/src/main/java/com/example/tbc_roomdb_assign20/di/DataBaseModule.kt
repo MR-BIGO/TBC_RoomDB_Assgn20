@@ -20,7 +20,7 @@ object DataBaseModule {
     fun provideDataBase(@ApplicationContext context: Context): UserDatabase{
         return Room.databaseBuilder(
             context,
-            UserDatabase::class.java, "users-database"
+            UserDatabase::class.java, "users-database2"
         ).build()
     }
 
